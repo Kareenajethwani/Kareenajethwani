@@ -59,7 +59,7 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 🧐 **Knowledge of:**<br>
 
-`Full Stack Web Development`, `Responsive Web Design`, `RESTful APIs`, `CRUD Operations`, `Database Management`, `Authentication & Authorization`, `OOP (Object-Oriented Programming)`, `Data Structures and Algorithms`, `Version Control (Git, GitHub)`, `Agile Development`, Debugging & Optimization`.
+`Full Stack Web Development`, `Responsive Web Design`, `RESTful APIs`, `CRUD Operations`, `Database Management`, `Authentication & Authorization`, `OOP (Object-Oriented Programming)`, `Data Structures and Algorithms`, `Version Control (Git, GitHub)`, `Agile Development`, `Debugging & Optimization`.
 
 ---
 
