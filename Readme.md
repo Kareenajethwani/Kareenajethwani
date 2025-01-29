@@ -47,5 +47,16 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
+🤓 **Interested:** <br>
+
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
+![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB&labelColor=000000)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933&labelColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=007396&labelColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=3776AB&labelColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=47A248&labelColor=ffffff)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=4479A1&labelColor=ffffff)
+
 
 <br>
