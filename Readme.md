@@ -7,7 +7,7 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
-📝 ***Feel open to ping me anytime ....*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/badge/follow%20me-100+-red?style=social&logo=github)](https://github.com/Palash-Shah)
+📝 ***Feel open to ping me anytime ....*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/badge/follow%20me-100+-red?style=social&logo=github)](https://github.com/Kareenajethwani03/)
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Kareena%20Jethwani-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/kareenajethwani03/)
