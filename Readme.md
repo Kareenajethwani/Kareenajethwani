@@ -33,8 +33,12 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB&labelColor=000000)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933&labelColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=007396&labelColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python&logoColor=3776AB&labelColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&logoColor=47A248&labelColor=ffffff)
 
 <br>
 🧐 **Knowledge of:**<br>
@@ -45,12 +49,8 @@ Programmer specialized in **web development** using multiple **tools, frameworks
 
 🤓 **Interested:** <br>
 
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
-🤓 **Interested:** <br>
-
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
-![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=61DAFB&labelColor=000000)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933&labelColor=ffffff)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk&logoColor=007396&labelColor=ffffff)
